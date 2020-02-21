@@ -16,4 +16,6 @@ Cette application consiste à créer une aide aux nouveaux arrivants d'une entre
 1. Modifier le fichier contenant les propriétés de connexion à la base de donnée pour qu'elles soient en accord avec votre base.
 Chemin: **/src/main/webapp/WEB-INF/spring-database.xml**
 1. Installer Tomcat server puis l'ajouter à Eclipse
-1. 
+1. Démarrer l'application 
+Clic droit sur le projet: Run As -> Run On Server
+
